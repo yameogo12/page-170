@@ -1,0 +1,11 @@
+ol{  
+    list-style-type: upper-roman;
+
+}
+ul{
+    list-style-type: square;
+}
+submit{
+	color: green;
+	text-align: hevetic;
+}

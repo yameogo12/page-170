@@ -1,0 +1,54 @@
+body{
+	background-image: url('beauty.jpg');
+		z-index: 1;
+	text-align: center;
+}
+video {
+	background-image: url("background.MOV");
+    max-width: 100%;
+    height: auto;
+}
+
+
+table{
+	
+	
+	}
+
+td: {
+    background-color: yellow;
+	color: black;
+	}
+	
+tr, td {
+    background-color:chartreuse ;
+    color: white; 
+    }
+	p{
+		font-family: verdana;
+		font-size: 20px;
+	}
+h1{
+     border-collapse: collapse;
+	
+}
+h2{
+	
+     border-collapse: collapse;
+		
+	}
+h3{
+     border-collapse: collapse;
+		
+	}
+button{
+	 border: 3px solid black;
+	 border-spacing: 5px;
+	
+	  
+}
+p{
+	font: the bohemian;
+	font-family:"Times New Roman", Times, serif;
+	text-shadow: 1px 1px azur;
+}
